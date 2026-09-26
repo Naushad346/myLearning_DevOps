@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "title": "Welcome",
+    "description": "This list is loaded from the backend JSON file."
+  },
+  {
+    "id": 2,
+    "title": "Flask API",
+    "description": "Request GET /api to receive this JSON list."
+  }
+]
