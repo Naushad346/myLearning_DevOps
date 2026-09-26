@@ -8,5 +8,10 @@
     "id": 2,
     "title": "Flask API",
     "description": "Request GET /api to receive this JSON list."
+  },
+  {
+    "id": 3,
+    "title": "DevOps",
+    "description": "This is a DevOps course. this is added for testing purpose.in branch naushad_branch2"
   }
 ]
