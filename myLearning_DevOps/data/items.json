@@ -13,5 +13,7 @@
     "id": 3,
     "title": "QA",
     "description": "This is a QA course."
+    "title": "DevOps",
+    "description": "This is a DevOps course. this is added for testing purpose.in branch naushad_branch2"
   }
 ]
