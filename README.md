@@ -6,3 +6,4 @@ this repo is for devOps learning
 ##LinuxScripting-->server-stats.sh
 
 # project url- https://github.com/Naushad346/myLearning_DevOps
+https://roadmap.sh/projects/server-stats
